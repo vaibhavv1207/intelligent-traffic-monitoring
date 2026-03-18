@@ -1,0 +1,20 @@
+```
+
+Then paste this inside and save:
+```
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+data/videos/
+data/raw/
+.env
+*.egg-info/
+dist/
+.DS_Store
+*.mp4
+*.avi
+*.jpg
+*.png
+models/
